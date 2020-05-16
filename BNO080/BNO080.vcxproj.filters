@@ -588,5 +588,34 @@
     <None Include="stm32.xml">
       <Filter>VisualGDB settings</Filter>
     </None>
+    <ClCompile Include="sh2_util.c">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="sh2_SensorValue.c">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="shtp.c">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sh2_hal.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="sh2.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="sh2_err.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="sh2_util.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="sh2_SensorValue.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="shtp.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
