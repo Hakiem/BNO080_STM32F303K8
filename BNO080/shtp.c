@@ -24,6 +24,7 @@
 #include "sh2_util.h"
 
 #include <string.h>
+#include <stdbool.h>
 
 // ------------------------------------------------------------------------
 // Private types
